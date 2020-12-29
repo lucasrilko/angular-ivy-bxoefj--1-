@@ -9,8 +9,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  opacity: 0.95;
-
+  opacity: 0.9;
 }
 
 form {
@@ -26,8 +25,7 @@ form {
 form h4 {
   text-align: center;
   color: #5f7c8a;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 form input[type="text"],
@@ -59,3 +57,4 @@ form input[type="text"]:focus {
 form input[type="password"]:focus {
   outline: 0;
 }
+
